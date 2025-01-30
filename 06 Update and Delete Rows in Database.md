@@ -1,5 +1,7 @@
 #Update Database Entries
 
+see: https://www.w3schools.com/mysql/mysql_update.asp 
+
 SELECT * FROM student;
 
 UPDATE student
@@ -45,3 +47,4 @@ or
 DELETE FROM student
 WHERE name = 'Tom' AND major =  'undecided';
 
+see: https://www.w3schools.com/mysql/mysql_delete.asp
