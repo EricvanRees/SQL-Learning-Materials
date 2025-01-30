@@ -34,9 +34,9 @@
 
 Example:
 
-SELECT employee.name, employee.age
-FROM employee
-WHERE employee.salary > 30000
+  SELECT employee.name, employee.age
+  FROM employee
+  WHERE employee.salary > 30000
 
 # SQL Keys
 

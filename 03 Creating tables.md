@@ -8,27 +8,27 @@
 * TIMESTAMP - YY-MM-DD HH:MM:SS
 
 # Create database
-mysql> CREATE DATABASE student;
+  mysql> CREATE DATABASE student;
 
 # Select database
-mysql> USE student;
+  mysql> USE student;
 
 # Create tables + different columns and attributes
 
-CREATE TABLE student (
-  student_id INT PRIMARY KEY,
-  var VARCHAR(20),
-  major VARCHAR(20)
-);
+  CREATE TABLE student (
+    student_id INT PRIMARY KEY,
+    var VARCHAR(20),
+    major VARCHAR(20)
+  );
 
 # Describe table
-DESCRIBE student;
+  DESCRIBE student;
 
 # Delete table
-DROP TABLE student;
+  DROP TABLE student;
 
 # Add column to table 
-ALTER TABLE student ADD gpe DEcIMAL(3, 2;)
+  ALTER TABLE student ADD gpe DEcIMAL(3, 2;)
 
 # Delete a single column
-ALTER TABLE student DROP COLUMN gpa;
+  ALTER TABLE student DROP COLUMN gpa;
