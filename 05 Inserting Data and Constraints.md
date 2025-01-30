@@ -1,4 +1,8 @@
-#CONSTRAINTS, 
+#CONSTRAINTS
+SQL constraints are used to specify rules for data in a table. Constraints can be specified when the table is created with the CREATE TABLE statement, or after the table is created with the ALTER TABLE statement.
+
+See:https://www.w3schools.com/mysql/mysql_constraints.asp 
+
 For example: using NOT NULL in table scheme definition.
 This prevents entering null values into the database
 
