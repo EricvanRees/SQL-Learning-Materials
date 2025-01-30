@@ -1,4 +1,4 @@
-# Basic Queries using Select
+# Basic Queries using "Select"
 
 See: [W3Schools link](https://www.w3schools.com/mysql/mysql_select.asp) 
 
@@ -75,7 +75,7 @@ or:
   FROM student
   WHERE student_id <= 3 AND name <> 'Jack';
 
-# In Operator
+# "In" Operator
 
 See [W3Schools link](https://www.w3schools.com/mysql/mysql_in.asp)
 

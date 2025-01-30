@@ -1,4 +1,4 @@
-#Update Database Entries
+# Update Database Entries
 
 see: [W3Schools link](https://www.w3schools.com/mysql/mysql_update.asp) 
 
