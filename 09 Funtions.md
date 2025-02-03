@@ -1,3 +1,13 @@
+# MySQL COUNT(), AVG() and SUM() Functions
+
+The COUNT() function returns the number of rows that matches a specified criterion.
+
+The AVG() function returns the average value of a numeric column. 
+
+The SUM() function returns the total sum of a numeric column. 
+
+See [this w3schools link](https://www.w3schools.com/mysql/mysql_count_avg_sum.asp). 
+
 -- Find the number of employees
 
   SELECT COUNT(emp_id)

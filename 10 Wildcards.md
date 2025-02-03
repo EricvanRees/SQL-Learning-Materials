@@ -1,3 +1,8 @@
+# MySQL Wildcards
+A wildcard character is used to substitute one or more characters in a string.
+
+See this [w3schools link](https://www.w3schools.com/mysql/mysql_wildcards.asp).
+
 -- % = any number of characters, _ = one character
 
 -- Find any clients who are an LLC
